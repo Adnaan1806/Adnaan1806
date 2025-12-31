@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working as a Software Engineer and also a Final Year undergraduate<br>⚡ Checkout My Portfolio [https://v0-modern-portfolio-website-ojqpsx.vercel.app/
-](https://v0-modern-portfolio-website-psi-orcin.vercel.app/)
+]([https://v0-modern-portfolio-website-psi-orcin.vercel.app/](https://adnaanjanees.vercel.app/))
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adnaanjanees/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adnaan-janees/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/adnaanjanees18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnaanjanees0@gmail.com) 
