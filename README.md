@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working as a Software Engineer and also a Final Year undergraduate<br>⚡ Checkout My Portfolio [https://adnaanjaneesdev.vercel.app/
+🔭 I’m currently working as a Software Engineer and also a Final Year undergraduate<br>⚡ Checkout My Portfolio https://adnaanjaneesdev.vercel.app/
 
 
 ## 🌐 Socials:
