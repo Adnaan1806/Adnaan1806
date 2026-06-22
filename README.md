@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working as a Software Engineer in Test bridging QA automation and full-stack development<br>⚡ Checkout My Portfolio https://adnaanjaneesdev.vercel.app/
+🔭 I’m currently working as a Software Engineer bridging QA automation and full-stack development<br>⚡ Checkout My Portfolio https://adnaanjaneesdev.vercel.app/
 
 
 ## 🌐 Socials:
