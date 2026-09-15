@@ -1,13 +1,5 @@
-<h1 align="center">Adnaan Janees</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer%20in%20Test-58A6FF?style=flat-square" alt="Software Engineer in Test" />
-  <img src="https://img.shields.io/badge/Colombo%2C%20Sri%20Lanka-3FB950?style=flat-square" alt="Colombo, Sri Lanka" />
-</p>
-
-<p align="center">
-  Software Engineer in Test and a Software Engineering graduate, working across <b>test automation and software development</b>.<br />
-  I combine quality engineering and development skills to build reliable automation solutions and contribute to feature development.
+  <img src="./assets/header.svg" alt="Adnaan Janees — Software Engineer in Test" width="100%" />
 </p>
 
 <p align="center">
@@ -18,8 +10,6 @@
   <a href="https://adnaanjanees.netlify.app/"><img src="https://img.shields.io/badge/View%20portfolio%20%E2%86%92-58A6FF?style=for-the-badge&logoColor=white" alt="View portfolio" /></a>
   <a href="mailto:adnaanjanees0@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Get in touch" /></a>
 </p>
-
-<br />
 
 ### 🔵 Full-Stack Development
 
