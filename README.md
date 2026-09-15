@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <code>BEng (Hons) Software Engineering · Coventry University, UK</code> &nbsp; <code>Previously Virtusa</code>
+  <code>BEng (Hons) Software Engineering · Coventry University, UK</code> &nbsp; <code>Previously worked -  Virtusa</code>
 </p>
 
 <p align="center">
