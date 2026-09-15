@@ -1,22 +1,56 @@
+<h1 align="center">Adnaan Janees</h1>
 
-# 💫 About Me:
-🔭 I’m currently working as a Software Engineer bridging QA automation and full-stack development<br>⚡ Checkout My Portfolio (https://adnaanjanees.netlify.app/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer%20in%20Test-58A6FF?style=flat-square" alt="Software Engineer in Test" />
+  <img src="https://img.shields.io/badge/Colombo%2C%20Sri%20Lanka-3FB950?style=flat-square" alt="Colombo, Sri Lanka" />
+</p>
 
+<p align="center">
+  Software Engineer in Test and a Software Engineering graduate, working across <b>test automation and software development</b>.<br />
+  I combine quality engineering and development skills to build reliable automation solutions and contribute to feature development.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adnaanjanees/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adnaan-janees/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/adnaanjanees18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adnaanjanees0@gmail.com) 
+<p align="center">
+  <code>BEng (Hons) Software Engineering · Coventry University, UK</code> &nbsp; <code>Previously Virtusa</code>
+</p>
 
-# 💻 Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adnaan1806&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adnaan1806&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adnaan1806&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://adnaanjanees.netlify.app/"><img src="https://img.shields.io/badge/View%20portfolio%20%E2%86%92-58A6FF?style=for-the-badge&logoColor=white" alt="View portfolio" /></a>
+  <a href="mailto:adnaanjanees0@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Get in touch" /></a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adnaan1806&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br />
 
----
-[![](https://visitcount.itsvg.in/api?id=Adnaan1806&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🔵 Full-Stack Development
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0D9488?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### 🟢 Test Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-3FB950?style=flat-square&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### 🟠 Performance Testing
+
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+![BlazeMeter](https://img.shields.io/badge/BlazeMeter-CA2C31?style=flat-square&logo=blazemeter&logoColor=white)
+
+### 🟣 Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
